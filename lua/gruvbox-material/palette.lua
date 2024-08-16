@@ -1,0 +1,3 @@
+local palette = {}
+
+return palette
