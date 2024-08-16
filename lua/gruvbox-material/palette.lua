@@ -1,3 +1,0 @@
-local palette = {}
-
-return palette
